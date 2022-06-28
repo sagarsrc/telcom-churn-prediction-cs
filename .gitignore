@@ -1,3 +1,9 @@
+# custom files
+
+data/
+problem-stmt/
+.DS_Store
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
